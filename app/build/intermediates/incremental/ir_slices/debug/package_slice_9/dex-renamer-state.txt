@@ -1,0 +1,4 @@
+#Sun Feb 03 15:08:00 WAT 2019
+base.0=C\:\\Users\\USER\\AndroidStudioProjects\\BingerApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BingerApp</string>
+    <string name="action_settings">Favourites</string>
+    <string name="poster_image">tv show image</string>
+    <string name="sample_movie_description">A sample description for this particular tv show</string>
+    <string name="sample_year">2018</string>
+    <string name="title_air_today">Airing Today</string>
+    <string name="title_popuplar">Popular Shows</string>
+    <string name="title_status">Status:</string>
+    <string name="title_synopsis">Synopsis</string>
+    <string name="title_genres">Genres</string>
+    <string name="title_production_companies">Production Companies</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_show_details">Tv Show Details</string>
+    <string name="title_tv_shows">Tv Shows</string>
+</resources>
